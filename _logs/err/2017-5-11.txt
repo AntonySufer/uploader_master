@@ -1,0 +1,456 @@
+---2017-5-11 17:41:30【TypeError: Cannot read property '账号' of undefined
+    at Object.module.exports.top (E:\develop\workspaces\develop1.9.1\api\public\share.js:53:39)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:53:21)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-11 17:46:53【ReferenceError: conso is not defined
+    at getWx (E:\develop\workspaces\develop1.9.1\api\public\share.js:75:5)
+    at Object.module.exports.top (E:\develop\workspaces\develop1.9.1\api\public\share.js:53:27)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:53:21)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:57【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:52:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 17:56:25【TypeError: Cannot read property '会' of undefined
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:59:22)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:41【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-11 18:17:47【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-11 18:17:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-11 18:17:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】

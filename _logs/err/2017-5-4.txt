@@ -1,0 +1,245 @@
+---2017-5-4 17:31:21【TypeError: Cannot set property '时间' of undefined
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.0\routes\transfer_return_alipay.js:15:7)
+    at E:\develop\workspaces\develop1.9.0\routes\app_routes_main.js:53:20】
+---2017-5-4 17:31:21【TypeError: Cannot set property '时间' of undefined
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.0\routes\transfer_return_alipay.js:15:7)
+    at E:\develop\workspaces\develop1.9.0\routes\app_routes_main.js:53:20】
+---2017-5-4 17:31:23【Error: ENOENT: no such file or directory, mkdir 'E:\develop\workspaces\develop1.9.0\_logs\pay\alipay'
+    at Error (native)
+    at Object.fs.mkdirSync (fs.js:923:18)
+    at Object.logs.write (E:\develop\workspaces\develop1.9.0\func\logs.js:29:6)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.0\routes\transfer_return_alipay.js:41:7)
+    at E:\develop\workspaces\develop1.9.0\routes\app_routes_main.js:53:20】
+---2017-5-4 18:52:27【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:27【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:28【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:28【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:28【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:28【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:31【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:31【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:31【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:31【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:33【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:33【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:35【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:35【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:35【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:37【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:37【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:37【error: terminating connection due to administrator command
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-4 18:52:59【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-4 18:52:59【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:1【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:1【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:2【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:2【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:3【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:3【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:6【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:6【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:6【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:6【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:10【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:10【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:10【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:10【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-4 18:53:12【Error: connect ETIMEDOUT 121.196.197.213:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-4 18:53:12【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】

@@ -1,0 +1,31 @@
+﻿body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.body-content {
+    margin-top: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+    .body-content .container {
+    }
+
+    /***图片宽度统一处理**/
+    .body-content img {
+        max-width: 100%;
+    }

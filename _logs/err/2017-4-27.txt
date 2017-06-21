@@ -1,0 +1,19 @@
+---2017-4-27 9:33:16【Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:357:11)
+    at ServerResponse.header (E:\develop\workspaces\develop1.9.0\node_modules\express\lib\response.js:725:10)
+    at ServerResponse.send (E:\develop\workspaces\develop1.9.0\node_modules\express\lib\response.js:170:12)
+    at ServerResponse.json (E:\develop\workspaces\develop1.9.0\node_modules\express\lib\response.js:256:15)
+    at ServerResponse.send (E:\develop\workspaces\develop1.9.0\node_modules\express\lib\response.js:158:21)
+    at E:\develop\workspaces\develop1.9.0\apimain.js:365:10
+    at FSReqWrap.oncomplete (fs.js:123:15)】
+---2017-4-27 19:27:4【Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.0\apimain.js:92:8)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】

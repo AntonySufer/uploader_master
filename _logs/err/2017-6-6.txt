@@ -1,0 +1,473 @@
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:26:21【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.101:5432】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: connect ETIMEDOUT 192.168.0.101:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:28:57【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【错误:连接PG数据库失败,错误信息:error: 用户 "postgres" Password 认证失败】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【error: 用户 "postgres" Password 认证失败
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-6-6 14:29:31【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】

@@ -1,0 +1,1657 @@
+---2017-5-12 9:40:36【TypeError: client.query is not a function
+    at Object.pgdb.query (E:\develop\workspaces\develop1.9.1\func\pgdb.js:84:9)
+    at queryRedConvert (E:\develop\workspaces\develop1.9.1\api\red_money.js:232:17)
+    at toDo (E:\develop\workspaces\develop1.9.1\api\red_money.js:111:23)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 9:48:24【TypeError: client.query is not a function
+    at Object.pgdb.query (E:\develop\workspaces\develop1.9.1\func\pgdb.js:84:9)
+    at queryRedConvert (E:\develop\workspaces\develop1.9.1\api\red_money.js:232:17)
+    at toDo (E:\develop\workspaces\develop1.9.1\api\red_money.js:111:23)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 9:52:43【ReferenceError: stringFormat is not defined
+    at toDo (E:\develop\workspaces\develop1.9.1\api\red_money.js:123:29)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 10:22:54【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:54【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:54【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【error: the database system is shutting down
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:22:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:22:55【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:34:53【ReferenceError: data is not defined
+    at toDo (E:\develop\workspaces\develop1.9.1\api\red_money.js:170:9)
+    at Object.module.exports.run (E:\develop\workspaces\develop1.9.1\api\red_money.js:60:9)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 10:43:33【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:43:33【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:43:33【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:43:33【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:43:33【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:43:33【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:43:33【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:43:33【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:43:33【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:39【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:39【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:39【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:39【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:39【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:39【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:39【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:39【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:39【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:39【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:39【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:39【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:39【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:40【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:40【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:40【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:40【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:40【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:40【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:40【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:40【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:53:40【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 10:53:40【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:53:40【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:9【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:54:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:54:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:56:26【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:56:26【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:56:27【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:56:27【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:56:27【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:56:27【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:56:27【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:56:27【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:56:27【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:56:27【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:57:17【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:57:17【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:57:17【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 10:57:17【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 10:58:47【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:0【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:0【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:0【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:0【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:0【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:0【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:0【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:0【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:1【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:1【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:1【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:1【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:1【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:1【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:1【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:1【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:7:1【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:1【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:7:1【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:7:1【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:8:44【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:9:56【error: sorry, too many clients already
+    at Connection.parseE (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 11:9:56【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 11:9:56【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:10:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:10:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:10:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:10:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:10:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:10:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:10:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:10:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:11:51【Error: Connection terminated
+    at Connection.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 11:54:49【E:\develop\workspaces\develop1.9.1\api\red_money.js:111
+    console.log("apply_result:"+JSON.stringify(apply_result)):
+                                                             ^
+SyntaxError: Unexpected token :
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at E:\develop\workspaces\develop1.9.1\api\api.js:23:14】
+---2017-5-12 14:37:13【Error: Cannot find module '../func/weixin_red.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.1\api\red_money.js:24:14)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-5-12 14:39:48【Error: Cannot find module '../../../config/pay.json'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:20:20)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-5-12 14:40:22【Error: Cannot find module 'xmlreader'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:21:17)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-5-12 14:41:6【Error: Cannot find module 'xmlreader'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:21:17)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-5-12 14:43:59【Error: Cannot find module 'xmlreader'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (E:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:21:17)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-5-12 15:5:50【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:5:54【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:5:55【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:6:33【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:52:10
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 15:10:9【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:52:10
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 15:12:0【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:52:10
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 15:27:57【error: terminating connection due to administrator command
+    at Connection.parseE (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 15:27:58【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:27:59【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:27:59【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:28:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:28:0【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:35:35【TypeError: Cannot set property '状态' of undefined
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:46:14
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:493:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onerror (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:311:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at error (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:669:5)
+    at strictFail (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:693:7)
+    at beginWhiteSpace (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:967:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1022:11)】
+---2017-5-12 15:37:7【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:195:19
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:48:4
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)】
+---2017-5-12 15:39:11【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:195:20
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:48:4
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)】
+---2017-5-12 15:44:18【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:197:20
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:48:4
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)】
+---2017-5-12 15:46:2【error: sorry, too many clients already
+    at Connection.parseE (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 15:46:3【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:46:3【Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26)】
+---2017-5-12 15:46:4【Error: Connection terminated
+    at Connection.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 15:46:4【Error: Connection terminated
+    at Connection.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\client.js:183:17)
+    at Connection.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Connection.emit (events.js:185:7)
+    at Socket.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:66:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at TCP._handle.close [as _onclose] (net.js:497:12)】
+---2017-5-12 15:58:15【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 16:1:23【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 16:2:31【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 16:2:38【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 16:2:40【Error: connect ETIMEDOUT 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 16:3:7【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 16:4:19【TypeError: Cannot read property '0' of undefined
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:48:32
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)
+    at Parser.exports.Parser.Parser.parseString (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:508:31)】
+---2017-5-12 16:4:40【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】
+---2017-5-12 16:15:46【错误:连接PG数据库失败,错误信息:Error: connect ECONNREFUSED 192.168.0.100:5432】
+---2017-5-12 16:15:51【Error: connect ECONNREFUSED 192.168.0.100:5432
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)】
+---2017-5-12 16:16:54【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:50:11
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 16:18:33【TypeError: callback is not a function
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:50:6
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)
+    at Parser.exports.Parser.Parser.parseString (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:508:31)】
+---2017-5-12 16:22:31【TypeError: parseString(...).on is not a function
+    at Object.red.fnParseXml (e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:52:6)
+    at toDo (e:\develop\workspaces\develop1.9.1\api\red_money.js:197:12)
+    at Object.module.exports.run (e:\develop\workspaces\develop1.9.1\api\red_money.js:61:9)
+    at e:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 16:36:31【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\red_money.js:201:15
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:51:6
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)】
+---2017-5-12 16:40:26【TypeError: parseString(...).on is not a function
+    at Object.red.fnParseXml (e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:53:6)
+    at toDo (e:\develop\workspaces\develop1.9.1\api\red_money.js:199:26)
+    at Object.module.exports.run (e:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at e:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 16:44:39【TypeError: Cannot read property '状态' of undefined
+    at toDo (e:\develop\workspaces\develop1.9.1\api\red_money.js:201:18)
+    at Object.module.exports.run (e:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at e:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 16:51:54【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:51:13
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 16:53:50【TypeError: parseString(...).on is not a function
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:54:6】
+---2017-5-12 16:54:12【TypeError: Cannot read property '状态' of undefined
+    at toDo (e:\develop\workspaces\develop1.9.1\api\red_money.js:201:18)
+    at Object.module.exports.run (e:\develop\workspaces\develop1.9.1\api\red_money.js:62:9)
+    at e:\develop\workspaces\develop1.9.1\api\api.js:25:20】
+---2017-5-12 16:57:41【Error: This Fiber is already running
+    at Error (native)
+    at e:\develop\workspaces\develop1.9.1\api\public\weixin_red.js:53:19
+    at Parser.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:489:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Object.onclosetag (e:\develop\workspaces\develop1.9.1\node_modules\xml2js\lib\xml2js.js:447:26)
+    at emit (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:640:35)
+    at emitNode (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:645:5)
+    at closeTag (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:905:7)
+    at Object.write (e:\develop\workspaces\develop1.9.1\node_modules\sax\lib\sax.js:1452:13)】
+---2017-5-12 17:17:38【错误:连接PG数据库失败,错误信息:error: sorry, too many clients already】
+---2017-5-12 17:17:41【error: sorry, too many clients already
+    at Connection.parseE (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (e:\develop\workspaces\develop1.9.1\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-12 17:18:6【错误:连接PG数据库失败,错误信息:Error: connect ETIMEDOUT 192.168.0.100:5432】

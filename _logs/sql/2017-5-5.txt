@@ -1,0 +1,144 @@
+---2017-5-5 18:18:28【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:18:43【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:18:44【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:18:44【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:18:44【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:18:45【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:20:28【错误语句:select id from 平_转账日志表 where 商户网站唯一订单号 = '40000264005700000038181651'错误信息:error: column "商户网站唯一订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:21:11【错误语句:select id,转账人头像,支付账户,支付平台,转账订单号,收款唯一id,收款金额,收款备注,收款备注,收款时间,手续费,状态,录入人,录入时间 from  平_收款记录表  where  转账订单号 = '40000264005700000038181651'错误信息:error: column "转账人头像" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:24:34【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(NaN1,'125456','支付宝','123456789','40000264005700000038181651','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统',2017-05-05 18:24:34)错误信息:error: syntax error at or near "18"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:26:28【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(NaN1,'125456','支付宝','123456789','40000264005700000038181651','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统',2017-05-05 18:26:28)错误信息:error: syntax error at or near "18"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:27:29【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(NaN1,'125456','支付宝','123456789','40000264005700000038181651','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统',2017-05-05 18:27:29)错误信息:error: syntax error at or near "18"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:28:36【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(NaN1,'125456','支付宝','123456789','40000264005700000038181651','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统',2017-05-05 18:28:35)错误信息:error: syntax error at or near "18"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:29:49【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(11,'125456','支付宝','123456789','40000264005700000038181651','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统',2017-05-05 18:29:49)错误信息:error: syntax error at or near "18"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:38:9【错误语句:UPDATE 平_收款记录表 SET 状态='已支付',支付订单号 = '123456789', 收款时间 = '2017.05.10' where 商户订单号='40000264005700000038181651'错误信息:error: column "商户订单号" does not exist
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:49:9【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(01,'125456','微信支付','123456789','40000264005700000037181036','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统','2017-05-05 18:49:06')错误信息:error: duplicate key value violates unique constraint "平_转账日志表_pkey"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
+---2017-5-5 18:49:9【错误语句:INSERT INTO 平_转账日志表 (id,编号,支付平台,付款id,转账订单号,支付订单号,收款唯一id,收款金额,完成时间,手续费,状态,录入人,录入时间)  VALUES(01,'125456','微信支付','123456789','40000264005700000036180256','123456789','f53cff4d-31b7-40fe-a738-41b57cae570a',1,'2017.05.10',0.0000,'已支付','系统','2017-05-05 18:49:06')错误信息:error: duplicate key value violates unique constraint "平_转账日志表_pkey"
+    at Connection.parseE (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:539:11)
+    at Connection.parseMessage (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:366:17)
+    at Socket.<anonymous> (E:\develop\workspaces\develop1.9.0\node_modules\pg\lib\connection.js:105:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:547:20)】
