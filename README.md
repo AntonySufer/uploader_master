@@ -1,6 +1,6 @@
 ###  文件上传 app.js 设置
 
-
+...
 //form表单需要的中间件。
 var mutipart= require('connect-multiparty'); //表单中间件
 var ffmpeg = require('fluent-ffmpeg');//转码插件
@@ -54,8 +54,8 @@ app.post('/upload_movie',mutipartMiddeware,function (req,res) {
             res.send(data).end();
         }
 });
-
-
+...
+...
 ###  图片上传
 
 //文件上传
@@ -105,7 +105,7 @@ app.post("/temp",function(req,res){
     });
 });
 
-
+...
 
 
 
